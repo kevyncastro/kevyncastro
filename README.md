@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer @ Zipeli
+- 🔭 I’m currently working as a Software Engineer @ Avarni
 - 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on open source projects and freelancing
 - 🤔 I’m looking for help with data science
