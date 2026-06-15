@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Technical Lead @ Unicity
+- 🔭 I’m currently working as a Software Engineer @ Littlepay
 - 🌱 I’m currently learning ML and AI
 - 👯 I’m looking to collaborate on open source projects and freelancing
 - 🤔 I’m looking for help with data science
